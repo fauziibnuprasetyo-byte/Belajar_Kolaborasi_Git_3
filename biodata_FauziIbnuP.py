@@ -8,7 +8,7 @@ alamat = "Bekasi, Jawa Barat"
 kota = "Bekasi"
 
 print("Nama Lengkap  :", nama)
-print("Alamat        :", alamat, "\n                Kota ", kota)Kabupaten
+print("Alamat        :", alamat, "\n                Kota ", kota)
 print("Hobi          :", hobi)
 
 print("=======================================")
